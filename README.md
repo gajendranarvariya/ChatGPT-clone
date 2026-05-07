@@ -31,10 +31,10 @@
 1. Clone the repository:
 
 	```bash
-	git clone https://github.com/your-username/chatgpt-clone.git
-	cd chatgpt-clone
+	git clone https://github.com/gajendranarvariya/ChatGPT-clone.git
+	cd ChatGPT-clone
 	npm install
 	REACT_APP_OPENAI_API_KEY=your_api_key_here ==== .env
-	cd chatgpt-clone
+	cd ChatGPT-clone
 
 	```
